@@ -1,0 +1,9 @@
+Future improvment:
+
+restart function
+ask player for color
+goal in gate
+out - second player start
+draw / win /lose information - game up to 10 score
+player can move only in field
+
